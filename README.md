@@ -59,7 +59,7 @@ Blended         0.4605   0.6237  0.0907  0.1172 -0.7738      0.6549
 
 📊 Cumulative Return Comparison
 
-![A single chart showing momentum, reversion, and blended strategies over time](strategy_comparison.png)
+![A single chart showing momentum, reversion, and blended strategies over time](strategy_comparision.png)
 
 🔥 Correlation Heatmap
 

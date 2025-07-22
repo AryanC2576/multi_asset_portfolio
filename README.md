@@ -134,5 +134,8 @@ Open a Pull Request.
 This is part of my long-term goal to break into quantitative trading, fintech research, and remote global roles in financial data science.
 I’m documenting each project as I build a public, credible GitHub portfolio.
 
+## License 
+
+MIT LIcense
 
 
